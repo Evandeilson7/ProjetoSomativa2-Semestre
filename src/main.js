@@ -1,5 +1,7 @@
 // Importa o Vue
 import { createApp } from 'vue'
+// Importa o CSS global (Tailwind)
+import './style.css'
 
 // Importa o arquivo principal do site (onde está a estrutura do site)
 import App from './App.vue'
